@@ -1,4 +1,4 @@
-module github.com/haalcala/go-modules/test
+module github.com/haalcala/go-modules-test
 
 go 1.13
 
