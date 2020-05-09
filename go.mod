@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/haalcala/go-modules/test
 
 go 1.13
 
