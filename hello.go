@@ -5,10 +5,9 @@ import (
 )
 
 func Hello() string {
-    return quoteV3.HelloV3()
+	return "quoteV3.HelloV3()" + quoteV3.HelloV3()
 }
 
-
 func Proverb() string {
-    return quoteV3.Concurrency()
+	return quoteV3.Concurrency()
 }
